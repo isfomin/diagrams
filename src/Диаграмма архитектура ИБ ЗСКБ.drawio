@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-07-08T10:08:40.366Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36" etag="hYeYKgA4M3fika_xdBNW" version="14.3.0" type="github">
+<mxfile host="app.diagrams.net" modified="2021-07-08T10:13:01.548Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36" etag="p8rVM2gyJXVtOb_jbUNy" version="14.3.0" type="github">
   <diagram id="o-8jJQwRNSZP8_r5qZx2" name="Страница 1">
     <mxGraphModel dx="1038" dy="547" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -166,7 +166,7 @@
             <mxPoint x="450" y="160" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="6mSAr2f7txD2He6gnJ2v-6" value="&lt;font color=&quot;#000000&quot;&gt;&lt;b&gt;TranzWare Payment Gate (TWPG)&lt;/b&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=center;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+        <mxCell id="6mSAr2f7txD2He6gnJ2v-6" value="&lt;font color=&quot;#000000&quot;&gt;&lt;b&gt;TranzWare Payment Gate (TWPG)&lt;/b&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=center;fillColor=#fad9d5;strokeColor=#ae4132;" vertex="1" parent="1">
           <mxGeometry x="277.5" y="370" width="160" height="80" as="geometry" />
         </mxCell>
         <mxCell id="6mSAr2f7txD2He6gnJ2v-8" value="" style="endArrow=classic;startArrow=classic;html=1;strokeColor=#000000;fontColor=#0000CC;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="6mSAr2f7txD2He6gnJ2v-6" target="HoSw1rWqRXUjWcolSCxQ-6">
