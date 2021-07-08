@@ -1,0 +1,136 @@
+<mxfile host="app.diagrams.net" modified="2021-07-08T11:15:06.514Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36" etag="J2glG2rIyKkrkrU02g3s" version="14.3.0" type="github">
+  <diagram id="bkIrbYCUFtskOAz2RRMg" name="Страница 1">
+    <mxGraphModel dx="1038" dy="547" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="FEqSk5BftyKJ4e-EXbev-33" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;shadow=0;glass=0;" parent="1" vertex="1">
+          <mxGeometry x="680" y="40" width="1120" height="650" as="geometry" />
+        </mxCell>
+        <mxCell id="FEqSk5BftyKJ4e-EXbev-1" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;shadow=0;glass=0;" parent="1" vertex="1">
+          <mxGeometry x="40" y="40" width="550" height="400" as="geometry" />
+        </mxCell>
+        <mxCell id="FEqSk5BftyKJ4e-EXbev-2" value="Тестовая среда ИБ/МП" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;glass=0;dashed=1;" parent="1" vertex="1">
+          <mxGeometry x="440" y="40" width="150" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="FEqSk5BftyKJ4e-EXbev-3" value="&lt;b&gt;Тестовый сервер МП&lt;/b&gt;&lt;br&gt;Linux server (RedHat)&lt;br&gt;hostname: wscb-idaws-test-01" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;glass=0;spacingBottom=38;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
+          <mxGeometry x="70" y="70" width="220" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="FEqSk5BftyKJ4e-EXbev-4" value="Тестовый ИБ/МП&lt;br&gt;(Apache Tomcat для МП)" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;glass=0;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
+          <mxGeometry x="130" y="120" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="FEqSk5BftyKJ4e-EXbev-6" value="Тестовый&lt;br&gt;TWO" style="whiteSpace=wrap;html=1;aspect=fixed;shadow=0;glass=0;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
+          <mxGeometry x="70" y="220" width="100" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="FEqSk5BftyKJ4e-EXbev-7" value="Тестовый&lt;br&gt;ФП" style="whiteSpace=wrap;html=1;aspect=fixed;shadow=0;glass=0;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
+          <mxGeometry x="210" y="220" width="100" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="FEqSk5BftyKJ4e-EXbev-8" value="Тестовая шина ESB" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;glass=0;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
+          <mxGeometry x="70" y="350" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="FEqSk5BftyKJ4e-EXbev-9" value="Тестовая БД" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;shadow=0;glass=0;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
+          <mxGeometry x="350" y="220" width="95" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="FEqSk5BftyKJ4e-EXbev-18" value="&lt;b&gt;Тестовый сервер ИБ&lt;/b&gt;&lt;br&gt;Linux server (RedHat)&lt;br&gt;hostname: card-webibtest-01" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;glass=0;spacingBottom=38;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
+          <mxGeometry x="340" y="70" width="220" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="FEqSk5BftyKJ4e-EXbev-19" value="Тестовый ИБ/МП&lt;br&gt;(Apache Tomcat для ИБ)" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;glass=0;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
+          <mxGeometry x="400" y="120" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="FEqSk5BftyKJ4e-EXbev-21" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;shadow=0;glass=0;" parent="1" vertex="1">
+          <mxGeometry x="40" y="480" width="550" height="400" as="geometry" />
+        </mxCell>
+        <mxCell id="FEqSk5BftyKJ4e-EXbev-22" value="Ограниченная среда ИБ/МП" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;glass=0;dashed=1;" parent="1" vertex="1">
+          <mxGeometry x="430" y="480" width="160" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="FEqSk5BftyKJ4e-EXbev-23" value="&lt;b&gt;Ограниченный сервер ИБ/МП&lt;/b&gt;&lt;br&gt;Linux server (RedHat)&lt;br&gt;hostname: card-webibproto-01" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;glass=0;spacingBottom=38;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
+          <mxGeometry x="70" y="510" width="410" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="FEqSk5BftyKJ4e-EXbev-24" value="Ограниченный ИБ/МП&lt;br&gt;(Apache Tomcat для МП)" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;glass=0;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
+          <mxGeometry x="200" y="580" width="140" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="FEqSk5BftyKJ4e-EXbev-25" value="Рабочий ТВО" style="whiteSpace=wrap;html=1;aspect=fixed;shadow=0;glass=0;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
+          <mxGeometry x="70" y="660" width="100" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="FEqSk5BftyKJ4e-EXbev-26" value="Рабочий ФП" style="whiteSpace=wrap;html=1;aspect=fixed;shadow=0;glass=0;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
+          <mxGeometry x="210" y="660" width="100" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="FEqSk5BftyKJ4e-EXbev-27" value="Ограниченная шина ESB" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;glass=0;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
+          <mxGeometry x="70" y="790" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="FEqSk5BftyKJ4e-EXbev-28" value="Рабочая БД" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;shadow=0;glass=0;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
+          <mxGeometry x="350" y="660" width="95" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="FEqSk5BftyKJ4e-EXbev-31" value="Ограниченный ИБ/МП&lt;br&gt;(Apache Tomcat для ИБ)" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;glass=0;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
+          <mxGeometry x="340" y="580" width="140" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="FEqSk5BftyKJ4e-EXbev-34" value="Рабочая среда ИБ/МП" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;glass=0;dashed=1;" parent="1" vertex="1">
+          <mxGeometry x="1640" y="40" width="160" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="FEqSk5BftyKJ4e-EXbev-37" value="Рабочий ТВО" style="whiteSpace=wrap;html=1;aspect=fixed;shadow=0;glass=0;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
+          <mxGeometry x="730" y="420" width="100" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="FEqSk5BftyKJ4e-EXbev-38" value="Рабочий ФП" style="whiteSpace=wrap;html=1;aspect=fixed;shadow=0;glass=0;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
+          <mxGeometry x="870" y="420" width="100" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="FEqSk5BftyKJ4e-EXbev-39" value="Рабочая&amp;nbsp;шина ESB" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;glass=0;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
+          <mxGeometry x="730" y="550" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="FEqSk5BftyKJ4e-EXbev-40" value="Рабочая БД" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;shadow=0;glass=0;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
+          <mxGeometry x="1010" y="420" width="95" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="FEqSk5BftyKJ4e-EXbev-45" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;startArrow=classic;startFill=1;" parent="1" source="FEqSk5BftyKJ4e-EXbev-44" target="FEqSk5BftyKJ4e-EXbev-35" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FEqSk5BftyKJ4e-EXbev-48" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;startArrow=classic;startFill=1;" parent="1" source="FEqSk5BftyKJ4e-EXbev-44" target="FEqSk5BftyKJ4e-EXbev-46" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FEqSk5BftyKJ4e-EXbev-42" value="&lt;b&gt;Балансировщик ИБ/МП&lt;/b&gt;&lt;br&gt;Linux server (RedHat)&lt;br&gt;hostname: card-web-ib-balancer-01" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;glass=0;spacingBottom=38;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="1" vertex="1">
+          <mxGeometry x="980" y="100" width="340" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="FEqSk5BftyKJ4e-EXbev-43" value="Шлюз Nginx" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;glass=0;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
+          <mxGeometry x="70" y="580" width="130" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="FEqSk5BftyKJ4e-EXbev-44" value="Шлюз Nginx" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;glass=0;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="1" vertex="1">
+          <mxGeometry x="980" y="160" width="340" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="FEqSk5BftyKJ4e-EXbev-52" value="" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;glass=0;fillColor=none;dashed=1;fontColor=#000099;strokeColor=#0000CC;" parent="1" vertex="1">
+          <mxGeometry x="710" y="250" width="480" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="FEqSk5BftyKJ4e-EXbev-53" value="" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;glass=0;fillColor=none;dashed=1;strokeColor=#0000CC;" parent="1" vertex="1">
+          <mxGeometry x="1280" y="250" width="480" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="FEqSk5BftyKJ4e-EXbev-54" value="Кластер из 3-х сервером" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;glass=0;dashed=1;fontColor=#000099;" parent="1" vertex="1">
+          <mxGeometry x="1030" y="250" width="150" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="FEqSk5BftyKJ4e-EXbev-55" value="Кластер из 8 серверов" style="text;html=1;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;glass=0;dashed=1;fontColor=#0000CC;" parent="1" vertex="1">
+          <mxGeometry x="1610" y="250" width="150" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="FEqSk5BftyKJ4e-EXbev-56" value="&lt;div style=&quot;text-align: right&quot;&gt;&lt;span style=&quot;background-color: rgb(255 , 255 , 255) ; color: rgb(51 , 51 , 51) ; font-family: &amp;#34;arial&amp;#34; , &amp;#34;tahoma&amp;#34; , &amp;#34;verdana&amp;#34; , sans-serif&quot;&gt;card-web-ib-05&lt;/span&gt;&lt;/div&gt;&lt;font style=&quot;font-size: 12px&quot;&gt;&lt;div style=&quot;text-align: right&quot;&gt;&lt;span style=&quot;background-color: rgb(255 , 255 , 255) ; color: rgb(51 , 51 , 51) ; font-family: &amp;#34;arial&amp;#34; , &amp;#34;tahoma&amp;#34; , &amp;#34;verdana&amp;#34; , sans-serif&quot;&gt;card-web-ib-04&lt;/span&gt;&lt;/div&gt;&lt;span style=&quot;color: rgb(51 , 51 , 51) ; font-family: &amp;#34;arial&amp;#34; , &amp;#34;tahoma&amp;#34; , &amp;#34;verdana&amp;#34; , sans-serif ; background-color: rgb(255 , 255 , 255)&quot;&gt;&lt;div style=&quot;text-align: right&quot;&gt;card-&lt;span style=&quot;color: rgb(0 , 0 , 0) ; font-family: &amp;#34;helvetica&amp;#34;&quot;&gt;web&lt;/span&gt;-ib-06&lt;/div&gt;&lt;/span&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;glass=0;dashed=1;" parent="1" vertex="1">
+          <mxGeometry x="1080" y="270" width="110" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="FEqSk5BftyKJ4e-EXbev-57" value="&lt;div style=&quot;text-align: right&quot;&gt;&lt;span style=&quot;background-color: rgb(255 , 255 , 255) ; color: rgb(51 , 51 , 51) ; font-family: &amp;#34;arial&amp;#34; , &amp;#34;tahoma&amp;#34; , &amp;#34;verdana&amp;#34; , sans-serif&quot;&gt;wscb-ida-01&lt;/span&gt;&lt;/div&gt;&lt;font style=&quot;font-size: 12px&quot;&gt;&lt;div style=&quot;text-align: right&quot;&gt;&lt;span style=&quot;background-color: rgb(255 , 255 , 255) ; color: rgb(51 , 51 , 51) ; font-family: &amp;#34;arial&amp;#34; , &amp;#34;tahoma&amp;#34; , &amp;#34;verdana&amp;#34; , sans-serif&quot;&gt;wscb-ida-02&lt;/span&gt;&lt;/div&gt;&lt;font style=&quot;font-size: 12px&quot;&gt;&lt;div style=&quot;text-align: right&quot;&gt;&lt;span style=&quot;background-color: rgb(255 , 255 , 255) ; color: rgb(51 , 51 , 51) ; font-family: &amp;#34;arial&amp;#34; , &amp;#34;tahoma&amp;#34; , &amp;#34;verdana&amp;#34; , sans-serif&quot;&gt;wscb-idaws-01&lt;/span&gt;&lt;/div&gt;&lt;/font&gt;&lt;span style=&quot;color: rgb(51 , 51 , 51) ; font-family: &amp;#34;arial&amp;#34; , &amp;#34;tahoma&amp;#34; , &amp;#34;verdana&amp;#34; , sans-serif ; background-color: rgb(255 , 255 , 255)&quot;&gt;&lt;div style=&quot;text-align: right&quot;&gt;wscb-ida-03&lt;/div&gt;&lt;/span&gt;&lt;span style=&quot;color: rgb(51 , 51 , 51) ; font-family: &amp;#34;arial&amp;#34; , &amp;#34;tahoma&amp;#34; , &amp;#34;verdana&amp;#34; , sans-serif ; background-color: rgb(255 , 255 , 255)&quot;&gt;&lt;div style=&quot;text-align: right&quot;&gt;wscb-ida-04&lt;/div&gt;&lt;/span&gt;&lt;span style=&quot;color: rgb(51 , 51 , 51) ; font-family: &amp;#34;arial&amp;#34; , &amp;#34;tahoma&amp;#34; , &amp;#34;verdana&amp;#34; , sans-serif ; background-color: rgb(255 , 255 , 255)&quot;&gt;&lt;div style=&quot;text-align: right&quot;&gt;wscb-ida-05&lt;/div&gt;&lt;/span&gt;&lt;span style=&quot;color: rgb(51 , 51 , 51) ; font-family: &amp;#34;arial&amp;#34; , &amp;#34;tahoma&amp;#34; , &amp;#34;verdana&amp;#34; , sans-serif ; background-color: rgb(255 , 255 , 255)&quot;&gt;&lt;div style=&quot;text-align: right&quot;&gt;wscb-ida-06&lt;/div&gt;&lt;/span&gt;&lt;span style=&quot;color: rgb(51 , 51 , 51) ; font-family: &amp;#34;arial&amp;#34; , &amp;#34;tahoma&amp;#34; , &amp;#34;verdana&amp;#34; , sans-serif ; background-color: rgb(255 , 255 , 255)&quot;&gt;&lt;div style=&quot;text-align: right&quot;&gt;wscb-ida-07&lt;/div&gt;&lt;/span&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;glass=0;dashed=1;" parent="1" vertex="1">
+          <mxGeometry x="1640" y="290" width="120" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="FEqSk5BftyKJ4e-EXbev-58" value="hostnames:" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;glass=0;dashed=1;" parent="1" vertex="1">
+          <mxGeometry x="1037.5" y="275" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="FEqSk5BftyKJ4e-EXbev-35" value="&lt;b&gt;Рабочий сервер ИБ&lt;/b&gt;&lt;br&gt;Linux server (RedHat)" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;glass=0;spacingBottom=38;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
+          <mxGeometry x="730" y="270" width="240" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="FEqSk5BftyKJ4e-EXbev-41" value="Рабочий ИБ/МП&lt;br&gt;(Apache Tomcat для ИБ)" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;glass=0;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
+          <mxGeometry x="830" y="320" width="140" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="FEqSk5BftyKJ4e-EXbev-46" value="&lt;b&gt;Рабочий сервер МП&lt;/b&gt;&lt;br&gt;Linux server (RedHat)" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;glass=0;spacingBottom=38;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
+          <mxGeometry x="1300" y="270" width="255" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="FEqSk5BftyKJ4e-EXbev-47" value="Рабочий ИБ/МП&lt;br&gt;(Apache Tomcat для МП)" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;glass=0;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
+          <mxGeometry x="1410" y="320" width="145" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="FEqSk5BftyKJ4e-EXbev-59" value="hostnames:" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;glass=0;dashed=1;" parent="1" vertex="1">
+          <mxGeometry x="1610" y="275" width="40" height="20" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
