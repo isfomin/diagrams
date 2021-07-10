@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-07-10T14:37:19.178Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36" etag="KudMDouF9l5aSHo40JJn" version="14.8.5" type="github">
+<mxfile host="app.diagrams.net" modified="2021-07-10T14:38:27.202Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36" etag="T0ZPdOKGtd07DS_5rxBW" version="14.8.5" type="github">
   <diagram id="hWSsb01CtLQpheFJOtB3" name="Страница 1">
     <mxGraphModel dx="1038" dy="547" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -27,7 +27,7 @@
         <mxCell id="QrSI-PS3gTBF9NS_67o7-35" value="&lt;pre style=&quot;background-color: #ffffff ; color: #080808 ; font-family: &amp;#34;jetbrains mono&amp;#34; , monospace ; font-size: 9 8pt&quot;&gt;&lt;pre style=&quot;font-family: &amp;#34;jetbrains mono&amp;#34; , monospace&quot;&gt;&lt;span style=&quot;color: #000000&quot;&gt;LoginFragmentMobile&lt;/span&gt;&lt;/pre&gt;&lt;/pre&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="280" y="170" width="160" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="QrSI-PS3gTBF9NS_67o7-58" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;startArrow=none;startFill=0;" edge="1" parent="1" source="QrSI-PS3gTBF9NS_67o7-36" target="QrSI-PS3gTBF9NS_67o7-57">
+        <mxCell id="QrSI-PS3gTBF9NS_67o7-58" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;startArrow=classic;startFill=1;" edge="1" parent="1" source="QrSI-PS3gTBF9NS_67o7-36" target="QrSI-PS3gTBF9NS_67o7-57">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="QrSI-PS3gTBF9NS_67o7-36" value="&lt;pre style=&quot;background-color: #ffffff ; color: #080808 ; font-family: &amp;#34;jetbrains mono&amp;#34; , monospace ; font-size: 9 8pt&quot;&gt;&lt;pre style=&quot;font-family: &amp;#34;jetbrains mono&amp;#34; , monospace&quot;&gt;&lt;pre style=&quot;font-family: &amp;#34;jetbrains mono&amp;#34; , monospace&quot;&gt;&lt;span style=&quot;color: #000000&quot;&gt;LoginFragmentPushList&lt;/span&gt;&lt;/pre&gt;&lt;/pre&gt;&lt;/pre&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
