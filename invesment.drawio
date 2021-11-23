@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-11-23T07:09:01.780Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Safari/537.36" etag="sxFFR0KKa9SPeEipy-BY" version="15.8.3" type="github">
+<mxfile host="app.diagrams.net" modified="2021-11-23T07:26:47.034Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Safari/537.36" etag="Up18fzBGrdx2Hfm4nKUn" version="15.8.3" type="github">
   <diagram id="NJT0sPk384iGksNkGOon" name="Страница 1">
     <mxGraphModel dx="1038" dy="1647" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -87,7 +87,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="N4mms1zBvS2uukGaanv0-10" value="Benefit (with x5): &lt;b&gt;$500 - (&lt;font color=&quot;#ff3333&quot;&gt;5% + 0.5% + 2$&lt;/font&gt;&lt;/b&gt;&lt;b&gt;&lt;font color=&quot;#ff3333&quot;&gt;+&amp;nbsp;&lt;/font&gt;&lt;/b&gt;&lt;b&gt;&lt;font color=&quot;#ff3333&quot;&gt;(2.5%&lt;/font&gt;&amp;nbsp;&lt;font color=&quot;#009900&quot;&gt;-&amp;nbsp;10%) * 5&lt;/font&gt;) = $500 + &lt;font color=&quot;#009900&quot;&gt;30% &lt;/font&gt;= &lt;font color=&quot;#009900&quot;&gt;650%&lt;/font&gt;&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#000000;" vertex="1" parent="1">
+        <mxCell id="N4mms1zBvS2uukGaanv0-10" value="Benefit (with x5): &lt;b&gt;$500 - (&lt;font color=&quot;#ff3333&quot;&gt;5% + 2.5% + 2$&lt;/font&gt;&lt;/b&gt;&lt;b&gt;&lt;font color=&quot;#ff3333&quot;&gt;+&amp;nbsp;&lt;/font&gt;&lt;/b&gt;&lt;b&gt;&lt;font color=&quot;#ff3333&quot;&gt;(0.5%&lt;/font&gt;&amp;nbsp;&lt;font color=&quot;#009900&quot;&gt;-&amp;nbsp;10%) * 5&lt;/font&gt;) = $500 + &lt;font color=&quot;#009900&quot;&gt;38% &lt;/font&gt;= &lt;font color=&quot;#009900&quot;&gt;$690&lt;/font&gt;&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#000000;" vertex="1" parent="1">
           <mxGeometry x="110" y="420" width="620" height="60" as="geometry" />
         </mxCell>
       </root>
