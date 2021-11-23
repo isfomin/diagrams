@@ -1,66 +1,94 @@
-<mxfile host="app.diagrams.net" modified="2021-11-22T16:42:25.879Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Safari/537.36" etag="-rvECgtQMigGIor4IkPt" version="15.5.4" type="github">
+<mxfile host="app.diagrams.net" modified="2021-11-23T07:09:01.780Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Safari/537.36" etag="sxFFR0KKa9SPeEipy-BY" version="15.8.3" type="github">
   <diagram id="NJT0sPk384iGksNkGOon" name="Страница 1">
-    <mxGraphModel dx="1038" dy="547" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1038" dy="1647" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="bWD4O68JaxFSvqYdDyEj-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=default;" edge="1" parent="1" source="bWD4O68JaxFSvqYdDyEj-1" target="bWD4O68JaxFSvqYdDyEj-2">
+        <mxCell id="N4mms1zBvS2uukGaanv0-1" value="" style="ellipse;whiteSpace=wrap;html=1;rotation=38;fillColor=none;strokeColor=#6c8ebf;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="320" y="-20" width="549.22" height="380" as="geometry" />
+        </mxCell>
+        <mxCell id="bWD4O68JaxFSvqYdDyEj-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=default;" parent="1" source="bWD4O68JaxFSvqYdDyEj-1" target="bWD4O68JaxFSvqYdDyEj-2" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="bWD4O68JaxFSvqYdDyEj-7" value="&lt;b&gt;$500&lt;/b&gt; &lt;font color=&quot;#ff0000&quot;&gt;-5% fee&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="bWD4O68JaxFSvqYdDyEj-6">
+        <mxCell id="bWD4O68JaxFSvqYdDyEj-7" value="&lt;b&gt;$500&lt;/b&gt; &lt;font color=&quot;#ff0000&quot;&gt;-5% fee&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="bWD4O68JaxFSvqYdDyEj-6" vertex="1" connectable="0">
           <mxGeometry x="-0.128" y="-1" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="bWD4O68JaxFSvqYdDyEj-1" value="Account bank" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+        <mxCell id="bWD4O68JaxFSvqYdDyEj-1" value="Account bank" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
           <mxGeometry x="60" y="150" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="bWD4O68JaxFSvqYdDyEj-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontColor=#FF0000;strokeColor=default;" edge="1" parent="1" source="bWD4O68JaxFSvqYdDyEj-2" target="bWD4O68JaxFSvqYdDyEj-3">
+        <mxCell id="bWD4O68JaxFSvqYdDyEj-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontColor=#FF0000;strokeColor=default;" parent="1" source="bWD4O68JaxFSvqYdDyEj-2" target="bWD4O68JaxFSvqYdDyEj-3" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="bWD4O68JaxFSvqYdDyEj-10" value="&lt;font color=&quot;#000000&quot;&gt;&lt;b&gt;$500&lt;/b&gt; &lt;/font&gt;-0.5% fee" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontColor=#FF0000;" vertex="1" connectable="0" parent="bWD4O68JaxFSvqYdDyEj-9">
+        <mxCell id="bWD4O68JaxFSvqYdDyEj-10" value="&lt;font color=&quot;#000000&quot;&gt;&lt;b&gt;$500&lt;/b&gt; &lt;/font&gt;-0.5% fee" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontColor=#FF0000;" parent="bWD4O68JaxFSvqYdDyEj-9" vertex="1" connectable="0">
           <mxGeometry x="-0.2763" y="1" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="bWD4O68JaxFSvqYdDyEj-2" value="Account PAYEER" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="bWD4O68JaxFSvqYdDyEj-2" value="Account PAYEER" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="360" y="60" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="bWD4O68JaxFSvqYdDyEj-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fontColor=#FF0000;strokeColor=default;" edge="1" parent="1" source="bWD4O68JaxFSvqYdDyEj-3" target="bWD4O68JaxFSvqYdDyEj-4">
+        <mxCell id="bWD4O68JaxFSvqYdDyEj-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fontColor=#FF0000;strokeColor=default;" parent="1" source="bWD4O68JaxFSvqYdDyEj-3" target="bWD4O68JaxFSvqYdDyEj-4" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="bWD4O68JaxFSvqYdDyEj-12" value="&lt;b&gt;&lt;font color=&quot;#009900&quot;&gt;$550&lt;/font&gt;&lt;/b&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontColor=#FF0000;" vertex="1" connectable="0" parent="bWD4O68JaxFSvqYdDyEj-11">
+        <mxCell id="bWD4O68JaxFSvqYdDyEj-12" value="&lt;b&gt;&lt;font color=&quot;#009900&quot;&gt;$550&lt;/font&gt;&lt;/b&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontColor=#FF0000;" parent="bWD4O68JaxFSvqYdDyEj-11" vertex="1" connectable="0">
           <mxGeometry x="0.1018" y="-3" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="bWD4O68JaxFSvqYdDyEj-3" value="Account invesment (ethminioncrypto.net)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+        <mxCell id="bWD4O68JaxFSvqYdDyEj-3" value="Account invesment (ethminioncrypto.net)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="680" y="150" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="bWD4O68JaxFSvqYdDyEj-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fontColor=#009900;strokeColor=default;" edge="1" parent="1" source="bWD4O68JaxFSvqYdDyEj-4" target="bWD4O68JaxFSvqYdDyEj-5">
+        <mxCell id="bWD4O68JaxFSvqYdDyEj-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fontColor=#009900;strokeColor=default;" parent="1" source="bWD4O68JaxFSvqYdDyEj-4" target="bWD4O68JaxFSvqYdDyEj-5" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="bWD4O68JaxFSvqYdDyEj-14" value="&lt;b&gt;$550&lt;/b&gt; &lt;font color=&quot;#ff0000&quot;&gt;-2% fee&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontColor=#009900;" vertex="1" connectable="0" parent="bWD4O68JaxFSvqYdDyEj-13">
+        <mxCell id="bWD4O68JaxFSvqYdDyEj-14" value="&lt;b&gt;$550&lt;/b&gt; &lt;font color=&quot;#ff0000&quot;&gt;-2% fee&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontColor=#009900;" parent="bWD4O68JaxFSvqYdDyEj-13" vertex="1" connectable="0">
           <mxGeometry x="0.2185" y="-2" relative="1" as="geometry">
             <mxPoint x="9" y="2" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="bWD4O68JaxFSvqYdDyEj-4" value="Account PAYEER" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="bWD4O68JaxFSvqYdDyEj-4" value="Account PAYEER" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="480" y="260" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="bWD4O68JaxFSvqYdDyEj-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;fontColor=#FF0000;strokeColor=default;" edge="1" parent="1" source="bWD4O68JaxFSvqYdDyEj-5" target="bWD4O68JaxFSvqYdDyEj-1">
+        <mxCell id="bWD4O68JaxFSvqYdDyEj-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;fontColor=#FF0000;strokeColor=default;" parent="1" source="bWD4O68JaxFSvqYdDyEj-5" target="bWD4O68JaxFSvqYdDyEj-1" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="bWD4O68JaxFSvqYdDyEj-16" value="&lt;b&gt;&lt;font color=&quot;#009900&quot;&gt;$550&lt;/font&gt;&lt;/b&gt; -2.5%" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontColor=#FF0000;" vertex="1" connectable="0" parent="bWD4O68JaxFSvqYdDyEj-15">
+        <mxCell id="bWD4O68JaxFSvqYdDyEj-16" value="&lt;b&gt;&lt;font color=&quot;#009900&quot;&gt;$550&lt;/font&gt;&lt;/b&gt; -2.5%" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontColor=#FF0000;" parent="bWD4O68JaxFSvqYdDyEj-15" vertex="1" connectable="0">
           <mxGeometry x="0.1284" y="-2" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="bWD4O68JaxFSvqYdDyEj-5" value="Account QIWI" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="bWD4O68JaxFSvqYdDyEj-5" value="Account QIWI" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="230" y="260" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="bWD4O68JaxFSvqYdDyEj-18" value="Benefit: &lt;b&gt;$500 - (&lt;font color=&quot;#ff3333&quot;&gt;5% + 0.5% + 2$ + 2.5%&lt;/font&gt;&amp;nbsp;&lt;font color=&quot;#009900&quot;&gt;-&amp;nbsp;10%&lt;/font&gt;) = $500 + 0%&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#000000;" vertex="1" parent="1">
+        <mxCell id="bWD4O68JaxFSvqYdDyEj-18" value="Benefit: &lt;b&gt;$500 - (&lt;font color=&quot;#ff3333&quot;&gt;5% + 0.5% + 2$ + 2.5%&lt;/font&gt;&amp;nbsp;&lt;font color=&quot;#009900&quot;&gt;-&amp;nbsp;10%&lt;/font&gt;) = $500 + 0%&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#000000;" parent="1" vertex="1">
           <mxGeometry x="110" y="370" width="620" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="N4mms1zBvS2uukGaanv0-4" value="" style="edgeStyle=segmentEdgeStyle;endArrow=classic;html=1;rounded=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="539.61" y="40" as="sourcePoint" />
+            <mxPoint x="649.61" y="40" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="N4mms1zBvS2uukGaanv0-8" value="&lt;b&gt;x5&lt;/b&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontColor=#0000FF;" vertex="1" connectable="0" parent="N4mms1zBvS2uukGaanv0-4">
+          <mxGeometry x="-0.2147" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="N4mms1zBvS2uukGaanv0-5" value="" style="edgeStyle=segmentEdgeStyle;endArrow=none;html=1;rounded=0;startArrow=classic;startFill=1;endFill=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="630" y="340" as="sourcePoint" />
+            <mxPoint x="740" y="340" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="N4mms1zBvS2uukGaanv0-9" value="&lt;b&gt;x5&lt;/b&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontColor=#0000FF;" vertex="1" connectable="0" parent="N4mms1zBvS2uukGaanv0-5">
+          <mxGeometry x="-0.2764" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="N4mms1zBvS2uukGaanv0-10" value="Benefit (with x5): &lt;b&gt;$500 - (&lt;font color=&quot;#ff3333&quot;&gt;5% + 0.5% + 2$&lt;/font&gt;&lt;/b&gt;&lt;b&gt;&lt;font color=&quot;#ff3333&quot;&gt;+&amp;nbsp;&lt;/font&gt;&lt;/b&gt;&lt;b&gt;&lt;font color=&quot;#ff3333&quot;&gt;(2.5%&lt;/font&gt;&amp;nbsp;&lt;font color=&quot;#009900&quot;&gt;-&amp;nbsp;10%) * 5&lt;/font&gt;) = $500 + &lt;font color=&quot;#009900&quot;&gt;30% &lt;/font&gt;= &lt;font color=&quot;#009900&quot;&gt;650%&lt;/font&gt;&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="110" y="420" width="620" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
