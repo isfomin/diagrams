@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-10-27T13:41:20.713Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="WRFrE0XWfbQcV6DOWkVS" version="20.3.2" type="github">
+<mxfile host="app.diagrams.net" modified="2022-10-27T13:47:27.735Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="D2powtP6OW7jDZnTVqJO" version="20.3.2" type="github">
   <diagram id="R2lEEEUBdFMjLlhIrx00" name="Page-1">
     <mxGraphModel dx="3694" dy="2688" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0" extFonts="Permanent Marker^https://fonts.googleapis.com/css?family=Permanent+Marker">
       <root>
@@ -618,7 +618,7 @@
           </mxGeometry>
         </mxCell>
         <object label="gs_layers_roles_config" фыв="фыв" id="4T5B86G8x2Q3nE9Dheab-84">
-          <mxCell style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;fillColor=#fad7ac;strokeColor=#b46504;" vertex="1" parent="1">
+          <mxCell style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;fillColor=#a0522d;strokeColor=#6D1F00;fontColor=#ffffff;" vertex="1" parent="1">
             <mxGeometry x="910" y="60" width="250" height="250" as="geometry" />
           </mxCell>
         </object>
@@ -950,7 +950,7 @@
           </mxGeometry>
         </mxCell>
         <object label="gs_roles_layers_config" фыв="фыв" id="4T5B86G8x2Q3nE9Dheab-197">
-          <mxCell style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;fillColor=#fad7ac;strokeColor=#b46504;" vertex="1" parent="1">
+          <mxCell style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;fillColor=#a0522d;strokeColor=#6D1F00;fontColor=#ffffff;" vertex="1" parent="1">
             <mxGeometry x="-360" y="360" width="250" height="130" as="geometry" />
           </mxCell>
         </object>
@@ -1077,7 +1077,7 @@
           </mxGeometry>
         </mxCell>
         <object label="gs_workspaces_roles" фыв="фыв" id="4T5B86G8x2Q3nE9Dheab-238">
-          <mxCell style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;fillColor=#fad7ac;strokeColor=#b46504;" vertex="1" parent="1">
+          <mxCell style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;fillColor=#a0522d;strokeColor=#6D1F00;fontColor=#ffffff;" vertex="1" parent="1">
             <mxGeometry x="-360" y="-10" width="250" height="100" as="geometry" />
           </mxCell>
         </object>
@@ -1108,7 +1108,7 @@
           </mxGeometry>
         </mxCell>
         <object label="gs_workspaces_users" фыв="фыв" id="4T5B86G8x2Q3nE9Dheab-257">
-          <mxCell style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;fillColor=#fad7ac;strokeColor=#b46504;" vertex="1" parent="1">
+          <mxCell style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;fillColor=#a0522d;strokeColor=#6D1F00;fontColor=#ffffff;" vertex="1" parent="1">
             <mxGeometry x="10" y="-140" width="250" height="100" as="geometry" />
           </mxCell>
         </object>
