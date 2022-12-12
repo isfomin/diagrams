@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-12-12T13:51:21.255Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="JQdZXYP83JLNI0QfCEoQ" version="20.3.2" type="github">
+<mxfile host="app.diagrams.net" modified="2022-12-12T15:07:12.631Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="gD5XHIX1Vhqgpw-TaAA0" version="20.3.2" type="github">
   <diagram id="1pQtL-HB8HAozsamnrRq" name="Страница 1">
     <mxGraphModel dx="1422" dy="1963" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -41,7 +41,7 @@
         <mxCell id="S6FhZM-zfES2_KA9cMUn-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;startArrow=classic;startFill=1;" edge="1" parent="1" source="S6FhZM-zfES2_KA9cMUn-8" target="S6FhZM-zfES2_KA9cMUn-20">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="S6FhZM-zfES2_KA9cMUn-8" value="Spring Kafka" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="S6FhZM-zfES2_KA9cMUn-8" value="Spring Kafka" style="rounded=0;whiteSpace=wrap;html=1;glass=0;" vertex="1" parent="1">
           <mxGeometry x="260" y="520" width="240" height="40" as="geometry" />
         </mxCell>
         <mxCell id="S6FhZM-zfES2_KA9cMUn-20" value="Geocoder" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
