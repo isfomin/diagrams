@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-05-09T18:09:33.231Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="SOZt82Bbjw_fo3UoEYqH" version="21.2.9" type="github">
+<mxfile host="app.diagrams.net" modified="2023-05-09T18:10:38.363Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="4I1h2prmcJu0iBbTuKBB" version="21.2.9" type="github">
   <diagram id="6a731a19-8d31-9384-78a2-239565b7b9f0" name="Page-1">
     <mxGraphModel dx="1222" dy="1056" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
       <root>
@@ -49,20 +49,20 @@
         <mxCell id="997" value="&lt;div style=&quot;line-height: 150%&quot;&gt;Мировые деньги&lt;/div&gt;" style="text;html=1;resizable=0;points=[];autosize=1;align=left;verticalAlign=top;spacingTop=-4;fontSize=24;fontFamily=Verdana;fontColor=#DDDDDD;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="1620" y="339" width="260" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="998" value="Свойство измерять стоимость&lt;br&gt;всех товаров" style="text;html=1;resizable=0;points=[];autosize=1;align=left;verticalAlign=top;spacingTop=-4;fontSize=16;fontColor=#888888;fontFamily=Verdana;" parent="1" vertex="1">
-          <mxGeometry x="949" y="430" width="270" height="50" as="geometry" />
+        <mxCell id="998" value="Свойство измерять стоимость&lt;br style=&quot;font-size: 18px;&quot;&gt;всех товаров" style="text;html=1;resizable=0;points=[];autosize=1;align=left;verticalAlign=top;spacingTop=-4;fontSize=18;fontColor=#888888;fontFamily=Verdana;" parent="1" vertex="1">
+          <mxGeometry x="949" y="430" width="300" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="999" value="&lt;div&gt;Покупка товара с отсрочкой&lt;/div&gt;&lt;div&gt;платежа&lt;/div&gt;" style="text;html=1;resizable=0;points=[];autosize=1;align=left;verticalAlign=top;spacingTop=-4;fontSize=16;fontColor=#888888;fontFamily=Verdana;" parent="1" vertex="1">
-          <mxGeometry x="1273" y="658" width="260" height="50" as="geometry" />
+        <mxCell id="999" value="&lt;div style=&quot;font-size: 18px;&quot;&gt;Покупка товара с отсрочкой&lt;/div&gt;&lt;div style=&quot;font-size: 18px;&quot;&gt;платежа&lt;/div&gt;" style="text;html=1;resizable=0;points=[];autosize=1;align=left;verticalAlign=top;spacingTop=-4;fontSize=18;fontColor=#888888;fontFamily=Verdana;" parent="1" vertex="1">
+          <mxGeometry x="1273" y="658" width="290" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="1002" value="Деньги участвуют в процессе&lt;br&gt;обмена товарами" style="text;html=1;resizable=0;points=[];autosize=1;align=left;verticalAlign=top;spacingTop=-4;fontSize=16;fontColor=#888888;fontFamily=Verdana;" parent="1" vertex="1">
-          <mxGeometry x="949" y="919" width="270" height="50" as="geometry" />
+        <mxCell id="1002" value="Деньги участвуют в процессе&lt;br style=&quot;font-size: 18px;&quot;&gt;обмена товарами" style="text;html=1;resizable=0;points=[];autosize=1;align=left;verticalAlign=top;spacingTop=-4;fontSize=18;fontColor=#888888;fontFamily=Verdana;" parent="1" vertex="1">
+          <mxGeometry x="949" y="919" width="300" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="1003" value="&lt;div style=&quot;border-color: var(--border-color);&quot;&gt;Сохранение стоимости на&lt;/div&gt;&lt;div style=&quot;border-color: var(--border-color);&quot;&gt;достаточно продолжительный&lt;/div&gt;&lt;div style=&quot;border-color: var(--border-color);&quot;&gt;период времени&lt;/div&gt;" style="text;html=1;resizable=0;points=[];autosize=1;align=left;verticalAlign=top;spacingTop=-4;fontSize=16;fontColor=#888888;fontFamily=Verdana;" parent="1" vertex="1">
-          <mxGeometry x="1275" y="1170" width="270" height="70" as="geometry" />
+        <mxCell id="1003" value="&lt;div style=&quot;border-color: var(--border-color); font-size: 18px;&quot;&gt;Сохранение стоимости на&lt;/div&gt;&lt;div style=&quot;border-color: var(--border-color); font-size: 18px;&quot;&gt;достаточно продолжительный&lt;/div&gt;&lt;div style=&quot;border-color: var(--border-color); font-size: 18px;&quot;&gt;период времени&lt;/div&gt;" style="text;html=1;resizable=0;points=[];autosize=1;align=left;verticalAlign=top;spacingTop=-4;fontSize=18;fontColor=#888888;fontFamily=Verdana;" parent="1" vertex="1">
+          <mxGeometry x="1275" y="1170" width="310" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="1004" value="Всеобщее платежное средство" style="text;html=1;resizable=0;points=[];autosize=1;align=left;verticalAlign=top;spacingTop=-4;fontSize=16;fontColor=#888888;fontFamily=Verdana;" parent="1" vertex="1">
-          <mxGeometry x="1620" y="408" width="280" height="30" as="geometry" />
+        <mxCell id="1004" value="Всеобщее платежное&lt;br&gt;средство" style="text;html=1;resizable=0;points=[];autosize=1;align=left;verticalAlign=top;spacingTop=-4;fontSize=18;fontColor=#888888;fontFamily=Verdana;" parent="1" vertex="1">
+          <mxGeometry x="1620" y="408" width="220" height="50" as="geometry" />
         </mxCell>
         <mxCell id="1036" value="" style="whiteSpace=wrap;html=1;dashed=1;strokeColor=none;strokeWidth=1;fillColor=#282828;fontFamily=Verdana;fontSize=16;fontColor=#DDDDDD;" parent="1" vertex="1">
           <mxGeometry x="1906" y="430" width="8" height="8" as="geometry" />
