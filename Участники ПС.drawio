@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-05-13T20:05:07.804Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="CmySVN4hsL5GmblPXNWC" version="21.2.9" type="github">
+<mxfile host="app.diagrams.net" modified="2023-05-13T20:09:11.916Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="b5UxUu9a3FtLGcvMO-_8" version="21.2.9" type="github">
   <diagram name="Page-1" id="4fc8d65c-f3f6-feb3-4d1c-02f59d9f9886">
     <mxGraphModel dx="2260" dy="1965" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="826" pageHeight="1169" background="none" math="0" shadow="0">
       <root>
@@ -100,9 +100,6 @@
         <mxCell id="pAVdd1VswmtV60KGcweD-299" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;Договор&lt;/font&gt;" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;rotation=0;" vertex="1" parent="1">
           <mxGeometry x="580" y="-290" width="110" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="pAVdd1VswmtV60KGcweD-304" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.75;entryY=1;entryDx=0;entryDy=0;endArrow=none;endFill=0;strokeWidth=3;" edge="1" parent="1" source="pAVdd1VswmtV60KGcweD-302" target="pAVdd1VswmtV60KGcweD-264">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="pAVdd1VswmtV60KGcweD-307" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;strokeWidth=3;" edge="1" parent="1" source="pAVdd1VswmtV60KGcweD-302" target="pAVdd1VswmtV60KGcweD-286">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
@@ -114,9 +111,6 @@
         </mxCell>
         <mxCell id="pAVdd1VswmtV60KGcweD-305" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;Платежный&lt;br&gt;агент&lt;/b&gt;&lt;/font&gt;" style="rhombus;whiteSpace=wrap;html=1;strokeWidth=2;fillWeight=-1;hachureGap=8;fillStyle=cross-hatch;fillColor=#00F200;sketch=1;" vertex="1" parent="1">
           <mxGeometry x="220" y="-20" width="200" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="pAVdd1VswmtV60KGcweD-308" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;Договор&lt;/font&gt;" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;rotation=0;" vertex="1" parent="1">
-          <mxGeometry x="-50" y="-120" width="110" height="40" as="geometry" />
         </mxCell>
         <mxCell id="pAVdd1VswmtV60KGcweD-309" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;Договор&lt;/font&gt;" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;rotation=0;" vertex="1" parent="1">
           <mxGeometry x="-240" y="-120" width="110" height="40" as="geometry" />
