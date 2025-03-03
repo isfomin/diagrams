@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2025-03-03T10:17:09.932Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36" etag="UORJ0wRXJT5OIb3VSp34" version="22.1.21" type="github">
+<mxfile host="app.diagrams.net" modified="2025-03-03T10:17:58.721Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36" etag="ZOpIKo3gPCsofKWtTwpx" version="22.1.21" type="github">
   <diagram name="Страница — 1" id="RJFk-U6AwB0fZAoIYu2r">
     <mxGraphModel dx="2229" dy="1470" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -491,7 +491,7 @@
         <mxCell id="bryTa1Va9XueEoIS5_3I-168" value="b2" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="2700" y="615" width="40" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="bryTa1Va9XueEoIS5_3I-170" value="Collector" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="bryTa1Va9XueEoIS5_3I-170" value="MessageCollector" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-325" y="1320" width="250" height="60" as="geometry" />
         </mxCell>
         <mxCell id="bryTa1Va9XueEoIS5_3I-172" value="" style="line;strokeWidth=1;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;strokeColor=inherit;" vertex="1" parent="bryTa1Va9XueEoIS5_3I-170">
@@ -500,7 +500,7 @@
         <mxCell id="bryTa1Va9XueEoIS5_3I-173" value="+ nextBatch(): List&amp;lt;QueueMessage&amp;gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="bryTa1Va9XueEoIS5_3I-170">
           <mxGeometry y="34" width="250" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="bryTa1Va9XueEoIS5_3I-174" value="SingleItemCollector" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="bryTa1Va9XueEoIS5_3I-174" value="SingleItemMessageCollector" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-105" y="1590" width="250" height="60" as="geometry" />
         </mxCell>
         <mxCell id="bryTa1Va9XueEoIS5_3I-175" value="" style="line;strokeWidth=1;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;strokeColor=inherit;" vertex="1" parent="bryTa1Va9XueEoIS5_3I-174">
@@ -509,7 +509,7 @@
         <mxCell id="bryTa1Va9XueEoIS5_3I-176" value="+ nextBatch(): List&amp;lt;QueueMessage&amp;gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="bryTa1Va9XueEoIS5_3I-174">
           <mxGeometry y="34" width="250" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="bryTa1Va9XueEoIS5_3I-177" value="PolBatchCollector" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="bryTa1Va9XueEoIS5_3I-177" value="PollBatchMessageCollector" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-105" y="1460" width="250" height="60" as="geometry" />
         </mxCell>
         <mxCell id="bryTa1Va9XueEoIS5_3I-178" value="" style="line;strokeWidth=1;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;strokeColor=inherit;" vertex="1" parent="bryTa1Va9XueEoIS5_3I-177">
