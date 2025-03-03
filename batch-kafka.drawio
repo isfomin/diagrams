@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2025-03-03T10:24:48.437Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36" etag="MfU5j8LUYcVxV0oRVL64" version="22.1.21" type="github">
+<mxfile host="app.diagrams.net" modified="2025-03-03T11:13:40.546Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36" etag="JRsOp8csksZCO8QvSoH_" version="22.1.21" type="github">
   <diagram name="Страница — 1" id="RJFk-U6AwB0fZAoIYu2r">
-    <mxGraphModel dx="2490" dy="1623" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1863" dy="1256" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -491,8 +491,11 @@
         <mxCell id="bryTa1Va9XueEoIS5_3I-168" value="b2" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="2700" y="615" width="40" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="bryTa1Va9XueEoIS5_3I-202" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;endArrow=diamondThin;endFill=1;" edge="1" parent="1" source="bryTa1Va9XueEoIS5_3I-170" target="bryTa1Va9XueEoIS5_3I-183">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="bryTa1Va9XueEoIS5_3I-170" value="MessageCollector" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-300" y="1565" width="250" height="60" as="geometry" />
+          <mxGeometry x="-300" y="1555" width="250" height="60" as="geometry" />
         </mxCell>
         <mxCell id="bryTa1Va9XueEoIS5_3I-172" value="" style="line;strokeWidth=1;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;strokeColor=inherit;" vertex="1" parent="bryTa1Va9XueEoIS5_3I-170">
           <mxGeometry y="26" width="250" height="8" as="geometry" />
