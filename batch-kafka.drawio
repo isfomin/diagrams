@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2025-03-03T09:36:05.709Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36" etag="b9Uz28VPqvv_EuxnOJIi" version="22.1.21" type="github">
+<mxfile host="app.diagrams.net" modified="2025-03-03T09:39:35.325Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36" etag="U8ov_5fuGqxfPyZAryEN" version="22.1.21" type="github">
   <diagram name="Страница — 1" id="RJFk-U6AwB0fZAoIYu2r">
     <mxGraphModel dx="1979" dy="959" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -119,9 +119,9 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="bryTa1Va9XueEoIS5_3I-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="bryTa1Va9XueEoIS5_3I-34" target="bryTa1Va9XueEoIS5_3I-37">
+        <mxCell id="bryTa1Va9XueEoIS5_3I-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="bryTa1Va9XueEoIS5_3I-34">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="-40" y="850" as="targetPoint" />
+            <mxPoint x="80" y="850" as="targetPoint" />
             <Array as="points">
               <mxPoint x="-80" y="643" />
               <mxPoint x="-80" y="850" />
@@ -136,20 +136,23 @@
         <mxCell id="bryTa1Va9XueEoIS5_3I-35" value="step 1" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="-120" y="305" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="bryTa1Va9XueEoIS5_3I-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="bryTa1Va9XueEoIS5_3I-37" target="bryTa1Va9XueEoIS5_3I-39">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="bryTa1Va9XueEoIS5_3I-37" value="ditributor" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;align=right;verticalAlign=bottom;" vertex="1" parent="1">
+        <mxCell id="bryTa1Va9XueEoIS5_3I-44" value="distributor" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=bottom;align=right;" vertex="1" parent="1">
           <mxGeometry x="80" y="800" width="280" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="bryTa1Va9XueEoIS5_3I-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="bryTa1Va9XueEoIS5_3I-39" target="bryTa1Va9XueEoIS5_3I-42">
+        <mxCell id="bryTa1Va9XueEoIS5_3I-45" value="reactor chain (geocoding)" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;align=right;verticalAlign=bottom;" vertex="1" parent="1">
+          <mxGeometry x="480" y="800" width="280" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="bryTa1Va9XueEoIS5_3I-49" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="bryTa1Va9XueEoIS5_3I-47" target="bryTa1Va9XueEoIS5_3I-48">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="bryTa1Va9XueEoIS5_3I-39" value="b1" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="460" y="830" width="40" height="40" as="geometry" />
+        <mxCell id="bryTa1Va9XueEoIS5_3I-47" value="batch" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="100" y="830" width="100" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="bryTa1Va9XueEoIS5_3I-42" value="reactor chain" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="600" y="800" width="260" height="100" as="geometry" />
+        <mxCell id="bryTa1Va9XueEoIS5_3I-51" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="bryTa1Va9XueEoIS5_3I-48" target="bryTa1Va9XueEoIS5_3I-45">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="bryTa1Va9XueEoIS5_3I-48" value="b1" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="295" y="830" width="40" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
